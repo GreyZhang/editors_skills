@@ -3,3 +3,4 @@
 * 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/109614840][449_spacemacs函数相关的几个实用操作小结]]
 - [[https://greyzhang.blog.csdn.net/article/details/109862969][458_emacs projectile中使用etags]]
+- [[https://greyzhang.blog.csdn.net/article/details/110096600][461_几个不同的ctags信息梳理]]
