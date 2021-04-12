@@ -6,3 +6,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/110096600][461_几个不同的ctags信息梳理]]
 - [[https://greyzhang.blog.csdn.net/article/details/111338987][483_Windows Terminal中默认光标为小方块]]
 - [[https://greyzhang.blog.csdn.net/article/details/113764123][511_spacemacs跳转到任意2字符的位置]]
+- [[https://greyzhang.blog.csdn.net/article/details/115646893][589_在spacemacs中使用elpa mirror插件]]
