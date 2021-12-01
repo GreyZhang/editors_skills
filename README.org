@@ -8,3 +8,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113764123][511_spacemacs跳转到任意2字符的位置]]
 - [[https://greyzhang.blog.csdn.net/article/details/115646893][589_在spacemacs中使用elpa mirror插件]]
 - [[https://greyzhang.blog.csdn.net/article/details/121643548][912_在windows上安装CHOCOLATEY并使用其安装emacs]]
+- [[https://greyzhang.blog.csdn.net/article/details/121664556][913_emacs中使用restart-emacs]]
