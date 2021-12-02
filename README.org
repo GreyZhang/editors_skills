@@ -9,3 +9,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115646893][589_在spacemacs中使用elpa mirror插件]]
 - [[https://greyzhang.blog.csdn.net/article/details/121643548][912_在windows上安装CHOCOLATEY并使用其安装emacs]]
 - [[https://greyzhang.blog.csdn.net/article/details/121664556][913_emacs中使用restart-emacs]]
+- [[https://greyzhang.blog.csdn.net/article/details/121685421][914_使用benchmark-init检测emacs启动过程中各插件的时间消耗]]
