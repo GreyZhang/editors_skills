@@ -11,3 +11,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121664556][913_emacs中使用restart-emacs]]
 - [[https://greyzhang.blog.csdn.net/article/details/121685421][914_使用benchmark-init检测emacs启动过程中各插件的时间消耗]]
 - [[https://greyzhang.blog.csdn.net/article/details/121707794][915_emacs中按照行进行排序]]
+- [[https://greyzhang.blog.csdn.net/article/details/121885391][924_测试emacs几种初始加在配置文件的优先级]]
