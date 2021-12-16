@@ -13,3 +13,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121707794][915_emacs中按照行进行排序]]
 - [[https://greyzhang.blog.csdn.net/article/details/121885391][924_测试emacs几种初始加在配置文件的优先级]]
 - [[https://greyzhang.blog.csdn.net/article/details/121962647][927_emacs中的几个字符串的处理功能]]
+- [[https://greyzhang.blog.csdn.net/article/details/121985617][928_在emacs中按顺序为每一行插入一个数字编号]]
