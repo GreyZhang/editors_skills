@@ -16,3 +16,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/121985617][928_在emacs中按顺序为每一行插入一个数字编号]]
 - [[https://greyzhang.blog.csdn.net/article/details/122006683][929_emacs在buffer中使用正则表达式进行匹配搜索]]
 - [[https://greyzhang.blog.csdn.net/article/details/122014935][930_emacs禁用启动屏幕]]
+- [[https://greyzhang.blog.csdn.net/article/details/122024688][931_李杀emacs初始化配置例子分析之_图形环境下的背景色、工具条以及窗口大小]]
