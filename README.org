@@ -18,3 +18,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122014935][930_emacs禁用启动屏幕]]
 - [[https://greyzhang.blog.csdn.net/article/details/122024688][931_李杀emacs初始化配置例子分析之_图形环境下的背景色、工具条以及窗口大小]]
 - [[https://greyzhang.blog.csdn.net/article/details/122049065][932_emacs的major mode简介]]
+- [[https://greyzhang.blog.csdn.net/article/details/122049269][933_修改emacs major mode中的组合键]]
