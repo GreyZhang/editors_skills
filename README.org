@@ -21,3 +21,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122049269][933_修改emacs major mode中的组合键]]
 - [[https://greyzhang.blog.csdn.net/article/details/122074665][934_emacs minor mode基础]]
 - [[https://greyzhang.blog.csdn.net/article/details/122094126][935_emacs lisp中的关联表]]
+- [[https://greyzhang.blog.csdn.net/article/details/122116312][936_emacs lisp哈希表]]
