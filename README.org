@@ -28,3 +28,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122141428][940_emacs删除当前buffer对应的文件]]
 - [[https://greyzhang.blog.csdn.net/article/details/122204463][947_emacs中使用python进行功能扩展]]
 - [[https://greyzhang.blog.csdn.net/article/details/122226625][950_emacs lisp加python实现pdf拷贝翻译时候的多余空白处理]]
+- [[https://greyzhang.blog.csdn.net/article/details/122227010][951_WSL中emacs在org-mode中插入windows剪切板图片]]
