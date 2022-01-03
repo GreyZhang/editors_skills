@@ -30,3 +30,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122226625][950_emacs lisp加python实现pdf拷贝翻译时候的多余空白处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/122227010][951_WSL中emacs在org-mode中插入windows剪切板图片]]
 - [[https://greyzhang.blog.csdn.net/article/details/122270766][959_emacs中调用pandoc将org文件转成word文档]]
+- [[https://greyzhang.blog.csdn.net/article/details/122290181][969_emacs_org-mode导出文档的时候保留下划线]]
