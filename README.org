@@ -32,3 +32,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122270766][959_emacs中调用pandoc将org文件转成word文档]]
 - [[https://greyzhang.blog.csdn.net/article/details/122290181][969_emacs_org-mode导出文档的时候保留下划线]]
 - [[https://greyzhang.blog.csdn.net/article/details/122314072][978_使用emacs lisp安装emacs插件]]
+- [[https://greyzhang.blog.csdn.net/article/details/122815322][1131_使用clang-format进行代码格式排版]] 
