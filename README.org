@@ -35,3 +35,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122815322][1131_使用clang-format进行代码格式排版]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125493039][1282_李杀_emacs示范配置文件init.el的配置简单分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125493161][1283_Mike Zamansky讲解的emacs配置文件初步]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125828501][1303_通过keyfreq统计emacs中的功能按键使用频率]]
