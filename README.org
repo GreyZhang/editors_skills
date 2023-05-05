@@ -36,3 +36,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125493039][1282_李杀_emacs示范配置文件init.el的配置简单分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125493161][1283_Mike Zamansky讲解的emacs配置文件初步]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125828501][1303_通过keyfreq统计emacs中的功能按键使用频率]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130515577][1700_VIM代码自动补齐配置]]
