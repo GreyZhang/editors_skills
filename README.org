@@ -38,3 +38,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/125828501][1303_通过keyfreq统计emacs中的功能按键使用频率]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130515577][1700_VIM代码自动补齐配置]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131740081][1768_Source Insight等号无法对齐解决方法]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131740149][1769_Source Insight数字前缀后缀乱码解决方法]]
