@@ -40,3 +40,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/131740081][1768_Source Insight等号无法对齐解决方法]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131740149][1769_Source Insight数字前缀后缀乱码解决方法]]
 - [[https://blog.csdn.net/grey_csdn/article/details/132595181][1773_把vim的tab键设置为4个空格显示]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133581957][1800_vim的宏录制功能尝试]]
