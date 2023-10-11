@@ -42,3 +42,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/132595181][1773_把vim的tab键设置为4个空格显示]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133581957][1800_vim的宏录制功能尝试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133777614][1804_emacs实现成对儿字符的自动匹配插入]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133777772][1807_emacs_org-mode归档不自动存储的一个部分补救方案]]
