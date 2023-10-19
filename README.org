@@ -44,3 +44,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133777614][1804_emacs实现成对儿字符的自动匹配插入]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133777772][1807_emacs_org-mode归档不自动存储的一个部分补救方案]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133777897][1810_spacemacs缺少evil-unimpaired以及evil-ediff安装失败解决]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133934881][1811_spacemacs从v.0.200.13升级到v.0.200.14的几点变化感受]]
