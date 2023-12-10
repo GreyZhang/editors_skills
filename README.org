@@ -47,3 +47,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133934881][1811_spacemacs从v.0.200.13升级到v.0.200.14的几点变化感受]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133934949][1812_参考spacemacs的文档拆解ivy layer的组成]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911489][1833_emacs_smex的替代品counsel]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134911554][1834_emacs_ivy以及counsel的常用功能]]
