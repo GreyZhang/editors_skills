@@ -50,3 +50,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/134911554][1834_emacs_ivy以及counsel的常用功能]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134958051][1836_emacs显示空白字符]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134958367][1838_emacs_evil中跳转到任意字符evil-avy-goto-char的功能分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/134958490][1841_在Windows上安装emacs irony server]]
