@@ -58,3 +58,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/135440073][1869_修改counsel-M-x的配置让命令提升默认状态下的命令模糊搜索功能]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135440103][1870_使用flx来增强counsel-M-x的模糊匹配功能]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135489272][1878_emacs company backend的选择尝试]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135489532][1884_emacs ivy minibuffer中上下行导航快捷键修改]]
